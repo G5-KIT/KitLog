@@ -226,4 +226,4 @@ KitLog is open source. Feel free to use, modify and distribute.
 
 Built with SwiftUI and SwiftData on macOS. WSJT-X UDP protocol implementation based on the WSJT-X source documentation. Country prefix data based on ITU allocations with amateur radio community corrections.
 
-73 de G0JPS
+73 de G5KIT
